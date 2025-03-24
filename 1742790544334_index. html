@@ -96,8 +96,8 @@
         <div class="header-content">
             <!-- Add your profile picture here -->
             <img src="./pic.jpg" alt="Your Profile Picture" class="profile-picture">
-            <h1>Mrs. Krishnaveni. N</h1>
-            <p> Asst. Prof, Annai Violet Arts and  Science Collge</p>
+            <h1>Mr. Akash kumar N</h1>
+            <p> study Annai Violet Arts and  Science Collge</p>
         </div>
     </header>
 
@@ -115,7 +115,7 @@
     <section id="about">
         <div class="section-content">
             <h2>About Me</h2>
-            <p>I'm  <b> working as a Asst. Professor in Annai Violet Arts and Science College<a href="https://techtrainer20.github.io/git_con2/" traget="_target"></a> landscape. I have 9+ years of experience in teaching </p>
+            <p>I'm  <b> doing computer science department in Annai Violet Arts and Science College<a href="https://techtrainer20.github.io/git_con2/" traget="_target"></a> landscape. I have 9+ years of experience in teaching </p>
         </div>
     </section>
 
